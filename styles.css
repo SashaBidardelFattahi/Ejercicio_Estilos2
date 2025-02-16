@@ -1,0 +1,15 @@
+ /* Estilo para las palabras dentro de la etiqueta strong */
+ strong {
+    font-size: 1.5em; /* Aumenta el tamaño de la fuente */
+    color: #003366; /* Azul oscuro */
+}
+
+/* Estilo para la línea horizontal antes del párrafo */
+p{
+   
+    margin-left: 130px; /* Añade margen a la derecha */
+    border-top: 1px solid black;
+    display: inline-block;
+    line-height: 10px;
+   
+}
