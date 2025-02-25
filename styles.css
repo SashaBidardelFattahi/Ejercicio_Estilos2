@@ -1,6 +1,6 @@
  /* Estilo para las palabras dentro de la etiqueta strong */
  strong {
-    font-size: 1.5em; /* Aumenta el tamaño de la fuente */
+    font-size: 150%; /* Aumenta el tamaño de la fuente */
     color: #003366; /* Azul oscuro */
 }
 
@@ -8,8 +8,8 @@
 p{
    
     margin-left: 130px; /* Añade margen a la derecha */
-    border-top: 1px solid black;
-    display: inline-block;
-    line-height: 10px;
+    border-top: 1px solid black;/* tamaño y color del subrayado por encima*/
+    display: inline-block;/*la línea superior sólo ocupa ancho del texto*/
+    line-height: 10px;/*altura de la línea*/
    
 }
